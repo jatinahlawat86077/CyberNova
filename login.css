@@ -1,0 +1,58 @@
+.login_section{
+display:flex;
+justify-content:center;
+align-items:center;
+height:80vh;
+padding:60px;
+}
+.login_box{
+background:#111522;
+padding:40px 50px;
+width:420px;
+border-radius:12px;
+border:1px solid #00eaff55;
+text-align:center;
+box-shadow:0 0 15px #00eaff55;
+}
+.login_box h2{
+font-size:32px;
+margin-bottom:10px;
+}
+.input_box{
+width:100%;
+margin-top:18px;
+padding:12px 15px;
+border:none;
+border-radius:6px;
+outline:none;
+font-size:16px;
+background:#0c0f16;
+color:#fff;
+border:1px solid #00eaff55;
+}
+.login_btn{
+width:100%;
+margin-top:25px;
+padding:12px 15px;
+font-size:18px;
+font-weight:600;
+border:none;
+border-radius:6px;
+background:#00eaff;
+color:#000;
+cursor:pointer;
+transition:0.3s;
+}
+.login_btn:hover{
+background:#009fb6;
+}
+.signup_text{
+margin-top:15px;
+}
+.signup_text a{
+color:#00eaff;
+text-decoration:none;
+font-weight:600;
+}
+
+
